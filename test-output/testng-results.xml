@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-03T07:11:18 IST" name="Default suite" finished-at="2023-04-03T07:11:22 IST" duration-ms="3745">
+    <groups>
+    </groups>
+    <test started-at="2023-04-03T07:11:18 IST" name="Default test" finished-at="2023-04-03T07:11:22 IST" duration-ms="3745">
+      <class name="rpaV2.ParallelPostTest">
+        <test-method signature="testParallelPostRequests()[pri:0, instance:rpaV2.ParallelPostTest@5ae50ce6]" started-at="2023-04-03T07:11:18 IST" name="testParallelPostRequests" finished-at="2023-04-03T07:11:22 IST" duration-ms="3683" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testParallelPostRequests -->
+      </class> <!-- rpaV2.ParallelPostTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
